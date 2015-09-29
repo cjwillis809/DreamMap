@@ -1,4 +1,17 @@
 <resources>
     <string name="app_name">DreamMap</string>
     <string name="title_activity_maps">DreamMap</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Button names -->
+    <string name="home_button_text">Home Map</string>
+    <string name="tokyo_button_text">Tokyo Map</string>
+    <string name="paris_button_text">Paris Map</string>
+    <string name="toronto_button_text">Toronto Map</string>
+    <string name="london_button_text">London Map</string>
+    <string name="new_york_button_text">New York Map</string>
+
 </resources>
